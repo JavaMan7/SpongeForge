@@ -44,6 +44,7 @@ import javax.swing.border.EmptyBorder;
  * Bootstrap class to provide some help for end users and manage headless
  * self-install deployment via Ivy
  */
+//testing git 
 public class Main {
 
     private static final File JAR = Main.getJar();
